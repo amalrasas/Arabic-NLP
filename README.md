@@ -16,7 +16,6 @@ In this task you are going to create a NN model that classify the status of the 
 Arabic text to “happy” and “sad” based on the text. In this task you will represent the text by
 averaging the embeddings of the words comprising the text. For the word embeddings here, use
 the API you have created in Part 1.
-CpE 597: Special Topics in Computer Engineering – Machine Learning December 2022
 Use proper documentation when you submit this part and include the proper performance
 metrics for the training and validation. The test set will be released to you after you submit your
 code.
